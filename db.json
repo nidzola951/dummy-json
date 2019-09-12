@@ -1,0 +1,13 @@
+{
+  "currentUser": [
+    { "id": 1, "name": "Gregg" }
+  ],
+  "approvals": [
+    { "id": 1, "title": "Title", "approvers": "Meder, Gregg", "status": "pending" },
+    { "id": 2, "title": "Title", "approvers": "Meder, Gregg", "status": "approved" },
+    { "id": 3, "title": "Title", "approvers": "Meder, Gregg", "status": "pending" },
+    { "id": 4, "title": "Title", "approvers": "Meder, Gregg", "status": "denied" },
+    { "id": 5, "title": "Title", "approvers": "Meder, Gregg", "status": "approved" },
+    { "id": 6, "title": "Title", "approvers": "Meder, Gregg", "status": "approved" }
+  ]
+}
